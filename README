@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1105
+
+This Script is for the editing Test Script of Rational Test Real Time. The basic keywords are taken care of and the colorscheme is also applicable to the Native code written in "#" which is not in the default editor.
+The script is minimal and I have plans to make it better. Suggestions invited.
+
